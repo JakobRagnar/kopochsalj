@@ -1,0 +1,62 @@
+body{
+
+background-image: url("bagrund.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+
+}
+
+#Hem{
+
+   
+    border-bottom-style: groove;
+    border-width: 10px;
+
+}
+
+
+
+
+#Kontakt1{
+
+color: white;
+font-weight: 500;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 24px;
+
+}
+
+
+#Kontakt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+font-size: 20px;
+
+
+}
+
+#t1{
+font-family: Bebas Neue;
+color: white;
+}
+
+#sida{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:black;
+
+
+}
+
+#sida2{
+
+    background: 10px;
+    background:linear-gradient(white,lightgray,lightgray,white);
+
+font-weight: bold;
+font-size: 20px;
+
+
+
+}
